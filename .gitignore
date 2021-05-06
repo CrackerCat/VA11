@@ -95,18 +95,18 @@ Memory/.externalNativeBuild/
 .gradle/
 app/app.iml
 .idea/workspace.xml
-/lib
-/lib/*
-/lib64
-/lib64/*
+# /lib
+# /lib/*
+# /lib64
+# /lib64/*
 /local.properties
-/test-64bit
-/app-arm64/
-app-arm64
+# /test-64bit
+# /app-arm64/
+# app-arm64
 
 README.md
-security/dic.txt
-security/proguard-rules.pro
-
-basegenerator/
-basegenerator/*
+# security/dic.txt
+# security/proguard-rules.pro
+#
+# basegenerator/
+# basegenerator/*
